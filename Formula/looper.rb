@@ -11,7 +11,7 @@ class Looper < Formula
     end
     on_intel do
       url "https://registry.npmjs.org/@trylooper/cli-darwin-x64/-/cli-darwin-x64-0.1.1.tgz"
-      sha256 ""
+      sha256 "150c690666574d7642ac7048e9e67b427f19e66cb7666f1674d939d51e4f5e5b"
     end
   end
 
