@@ -1,7 +1,6 @@
 class Looper < Formula
   desc "Looper CLI: terminal coding agent with any model (Anthropic, OpenAI, OpenRouter)"
   homepage "https://trylooper.app/cli"
-  version "0.1.1"
   license :cannot_represent
 
   on_macos do
